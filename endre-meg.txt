@@ -8,7 +8,7 @@ I kodeskogen, jeg finner mine spor.
 Git og GitHub, verden åpner seg,
 Historien i filene jeg forstår nå lett.
 Dagens dato, en ny start, en tid for vekst,
-Med versionskontroll, jeg tar den beste fest.
+Med versionskontroll, jeg tar den beste fest.ghj
 
 Dato: <2.11.2023> 
 Universitet: <UiT>
